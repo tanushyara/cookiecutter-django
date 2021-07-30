@@ -134,6 +134,7 @@ Alternatively, deliver emails over console via ``EMAIL_BACKEND = 'django.core.ma
 In production, we have Mailgun_ configured to have your back!
 
 .. _Mailgun: https://www.mailgun.com/
+..  migomail: https://www.migomail.com/
 
 
 Celery
